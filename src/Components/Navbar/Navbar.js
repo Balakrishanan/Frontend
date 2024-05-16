@@ -108,7 +108,7 @@ function AdminappBar() {
               textDecoration: "none"
             }}
           >
-            HOSPITAL MANAGEMENT SYSTEM
+            HMS
           </Typography>
           <Box
             sx={{
